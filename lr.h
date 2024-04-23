@@ -1,0 +1,13 @@
+int lr1();
+int lr11();
+int lr2();
+int lr22();
+int lr3();
+int lr33();
+int lr4();
+int lr44();
+int lr5();
+int lr55();
+int lr6();
+int lr66();
+int lr7();

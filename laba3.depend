@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1709716262 source:c:\users\student\desktop\laba3\lr.c
+	"lr.h"
+	<stdio.h>
+
+1709717981 c:\users\student\desktop\laba3\lr.h
+
+1709717101 source:c:\users\student\desktop\laba3\main.c
+	<stdio.h>
+	"lr.h"
+
+1713289343 source:c:\users\natma\desktop\Новая папка\laba3 ljgs\main.c
+	<stdio.h>
+	"lr.h"
+
+1713288718 c:\users\natma\desktop\Новая папка\laba3 ljgs\lr.h
+
+1713288718 source:c:\users\natma\desktop\Новая папка\laba3 ljgs\lr.c
+	"lr.h"
+	<stdio.h>
+
+1710238206 source:i:\програм\laba3 ljgs\lr.c
+	"lr.h"
+	<stdio.h>
+
+1710238780 i:\програм\laba3 ljgs\lr.h
+
+1710238662 source:i:\програм\laba3 ljgs\main.c
+	<stdio.h>
+	"lr.h"
+
+1710322856 source:f:\програм\laba3 ljgs\lr.c
+	"lr.h"
+	<stdio.h>
+
+1710238780 f:\програм\laba3 ljgs\lr.h
+
+1710317790 source:f:\програм\laba3 ljgs\main.c
+	<stdio.h>
+	"lr.h"
+
+1712136102 source:f:\програм\большая папака лр3\laba3 ljgs\main.c
+	<stdio.h>
+	"lr.h"
+
+1712134692 f:\програм\большая папака лр3\laba3 ljgs\lr.h
+
+1712136036 source:f:\програм\большая папака лр3\laba3 ljgs\lr.c
+	"lr.h"
+	<stdio.h>
+
+1712136036 source:i:\програм\большая папака лр3\laba3 ljgs\lr.c
+	"lr.h"
+	<stdio.h>
+
+1712134692 i:\програм\большая папака лр3\laba3 ljgs\lr.h
+
+1712136172 source:i:\програм\большая папака лр3\laba3 ljgs\main.c
+	<stdio.h>
+	"lr.h"
+
+1713888211 source:c:\users\natma\desktop\novaya papka\laba3 ljgs\lr.c
+	"lr.h"
+	<stdio.h>
+
+1713888013 c:\users\natma\desktop\novaya papka\laba3 ljgs\lr.h
+
+1713888171 source:c:\users\natma\desktop\novaya papka\laba3 ljgs\main.c
+	<stdio.h>
+	"lr.h"
+
+1713899011 source:c:\users\natma\desktop\laba\lr.c
+	"lr.h"
+	<stdio.h>
+
+1713899012 c:\users\natma\desktop\laba\lr.h
+
+1713899012 source:c:\users\natma\desktop\laba\main.c
+	<stdio.h>
+	"lr.h"
+
